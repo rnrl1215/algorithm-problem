@@ -2,6 +2,8 @@ Recusrion 기초
 Recursion vs Iteration
 재귀는 반복문으로 변경가능 반대도 가능
 
+암시적(Implicit)보다는 명시적(Explicit)으로 표현 해야함. 
+
 이점
     - 재귀는 단순하고 알기 쉽게 표현가능
 
