@@ -9,7 +9,7 @@ int searchI(int data[], int n , int target );
 // recursion Explicit
 int searchR(int data[], int begin, int end, int target);
 
-
+/*
 int main()
 {
     string name = "skahn";
@@ -18,6 +18,7 @@ int main()
     cout<< searchR(data, 0, 10, 5) << endl;
 
 }
+*/
 
 // iteration
 int searchI(int data[], int n, int target)
